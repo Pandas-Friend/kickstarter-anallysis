@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-######Performing analysis on Kickstarter data to uncover trends
+###### Performing analysis on Kickstarter data to uncover trends
 Louise something noteable I found in my analysis is that the average goal of the successful campaigns was $5,049. So it is my recomendation that to ensure you have the most successful campaign you should set your goal at or around 5,000 dollars. The average goal of failed campaigns was $10,000 and those campaigns only had $559 pledged on average so keeping it closer to $5,000 is crucial. Another key takeaway from my analysis was that the month the campaign was started also played a very significant role in the outcome of the campaign. Campaigns started in May and June had the highest number of successes with campaigns started in May having the highest total successes as well as the highest success rate. The same was true even when I filtered for only theater campaigns, So it is my suggestion that you start your campaign in may.
  
 ![Untitled](https://user-images.githubusercontent.com/80008511/111890414-19373100-89b7-11eb-9343-346711bd8bfc.png)
