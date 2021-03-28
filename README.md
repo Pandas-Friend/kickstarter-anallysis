@@ -6,7 +6,7 @@ The purpose of this project is to gain insight on the outcomes of different camp
 ### Analysis of Outcomes Based on Launch Date
 Projects started in May had the highest number of successes compared to all other months as well as the highest rate of success. June was second as far as number of successes and success rate. December had the lowest number of successes with only two more successful campaigns than failed ones, with November and January coming in second and third respectively as far as fewest successes.
 
-![Theater_Outcomes_Vs_Launch](Crowd_Funding_Analysis/Resources/Theater_Outcomes_Vs_Launch.png)
+![Theater_Outcomes_Vs_Launch](Desktop/Theater_Outcomes_Vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Campaigns with goals less than $1000 had the highest success rate. Campaigns with a goal between $1000 and $4999 had the second highest success rate by 3 percent, as well as having the greatest number of total successes. Meanwhile campaigns with goals between $45000 and $49999, and greater than $50000 had the lowest success rates by far.
