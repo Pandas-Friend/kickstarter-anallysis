@@ -7,7 +7,9 @@ The purpose of this project is to gain insight on the outcomes of different camp
 Projects started in May had the highest number of successes compared to all other months as well as the highest rate of success. June was second as far as number of successes and success rate. December had the lowest number of successes with only two more successful campaigns than failed ones, with November and January coming in second and third respectively as far as fewest successes.
 
 
+
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
